@@ -1,0 +1,12 @@
+Z:\Общая для записи студентам\207 22-23\Заеблина\РПМ\ПР8\ПР8\obj\Debug\ПР8.csprojAssemblyReference.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\bin\Debug\ПР8.exe.config
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\bin\Debug\ПР8.exe
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\bin\Debug\ПР8.pdb
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.csprojAssemblyReference.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.Form1.resources
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.Properties.Resources.resources
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.csproj.GenerateResource.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.csproj.CoreCompileInputs.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.exe
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.pdb
+D:\207 Забелина Хохлов\РПМ ПР\ПР8\ПР8\obj\Debug\ПР8.Form2.resources
