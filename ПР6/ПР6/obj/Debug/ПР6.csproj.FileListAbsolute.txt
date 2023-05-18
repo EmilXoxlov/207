@@ -1,0 +1,6 @@
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.csprojAssemblyReference.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.Form1.resources
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.Krevetka.resources
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.Properties.Resources.resources
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.csproj.GenerateResource.cache
+D:\207 Забелина Хохлов\РПМ ПР\ПР6\ПР6\obj\Debug\ПР6.csproj.CoreCompileInputs.cache
